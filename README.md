@@ -1,5 +1,5 @@
 
-![GitHub Logo](/header.png)
+![GitHub Logo](assets/header.png)
 
 <!--
 **zannain/zannain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
